@@ -1,11 +1,12 @@
 {
-  "name": "net.es.unity.hierarchy-view",
+  "name": "team.e-s.unity.addins.hierarchy-icons",
   "version": "1.1.0",
   "displayName": "Hierarchy Icon",
   "description": "[1.1.0] Updates for disable expression.",
   "unity": "2023.2",
+  "license": "MIT",
   "author": {
-    "name": "Es",
+    "name": "E/s",
     "email": "lain_score@outlook.com"
   }
 }
